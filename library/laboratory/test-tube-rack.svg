@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Test Tube Rack</title>
+  <desc id="desc">Test tubes with colored liquids in a laboratory rack.</desc>
+  <!-- SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG -->
+  <g id="rack">
+    <rect x="88" y="200" width="14" height="184" fill="#3f4c61"/>
+    <rect x="410" y="200" width="14" height="184" fill="#3f4c61"/>
+    <rect x="70" y="180" width="372" height="20" rx="8" fill="#3f4c61"/>
+    <rect x="70" y="384" width="372" height="16" rx="6" fill="#3f4c61"/>
+    <circle cx="118" cy="190" r="13" fill="#172033" stroke="#f7f9fc" stroke-width="3"/>
+    <circle cx="190" cy="190" r="13" fill="#172033" stroke="#f7f9fc" stroke-width="3"/>
+    <circle cx="262" cy="190" r="13" fill="#172033" stroke="#f7f9fc" stroke-width="3"/>
+    <circle cx="334" cy="190" r="13" fill="#172033" stroke="#f7f9fc" stroke-width="3"/>
+    <circle cx="406" cy="190" r="13" fill="#172033" stroke="#f7f9fc" stroke-width="3"/>
+  </g>
+  <g id="tubes" stroke="#8a94a6" stroke-width="4" fill="#ffffff">
+    <rect x="101" y="196" width="34" height="180" rx="17"/>
+    <rect x="173" y="196" width="34" height="180" rx="17"/>
+    <rect x="245" y="196" width="34" height="180" rx="17"/>
+    <rect x="317" y="196" width="34" height="180" rx="17"/>
+    <rect x="389" y="196" width="34" height="180" rx="17"/>
+  </g>
+  <g id="liquids">
+    <rect x="105" y="300" width="26" height="72" rx="13" fill="#2a7b70"/>
+    <rect x="177" y="270" width="26" height="102" rx="13" fill="#b26b36"/>
+    <rect x="249" y="320" width="26" height="52" rx="13" fill="#3157a4"/>
+    <rect x="321" y="340" width="26" height="32" rx="13" fill="#b7d8d1"/>
+    <rect x="393" y="290" width="26" height="82" rx="13" fill="#e5c4a3"/>
+  </g>
+  <g id="stopper">
+    <rect x="251" y="182" width="22" height="16" rx="4" fill="#b26b36"/>
+  </g>
+</svg>

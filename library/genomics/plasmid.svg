@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Plasmid</title>
+  <desc id="desc">Circular plasmid DNA with genes, origin of replication and a direction arrow.</desc>
+  <!-- SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG -->
+  <g id="plasmid-ring">
+    <circle cx="256" cy="256" r="170" fill="#f7f9fc" stroke="#3f4c61" stroke-width="6"/>
+  </g>
+  <g id="genes" fill="none" stroke-width="13" stroke-linecap="round">
+    <path d="M 415.7 197.9 A 170 170 0 0 1 285.5 88.6" stroke="#b26b36"/>
+    <path d="M 108.8 171 A 170 170 0 0 1 108.8 341" stroke="#2a7b70"/>
+  </g>
+  <g id="origin-of-replication">
+    <rect x="246" y="76" width="20" height="20" rx="4" fill="#3157a4"/>
+  </g>
+  <g id="direction-arrow">
+    <polygon points="347,98 331,106 340,118" fill="#3f4c61"/>
+  </g>
+</svg>

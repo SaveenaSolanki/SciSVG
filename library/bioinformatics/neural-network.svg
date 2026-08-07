@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Neural Network</title>
+  <desc id="desc">Feedforward neural network with input, hidden and output layers.</desc>
+  <!--
+    SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG
+  -->
+  <line x1="96" y1="125" x2="200" y2="105" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="96" y1="125" x2="200" y2="185" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="96" y1="125" x2="200" y2="265" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="96" y1="125" x2="200" y2="345" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="96" y1="125" x2="200" y2="425" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="96" y1="208" x2="200" y2="105" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="96" y1="208" x2="200" y2="185" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="96" y1="208" x2="200" y2="265" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="96" y1="208" x2="200" y2="345" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="96" y1="208" x2="200" y2="425" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="96" y1="291" x2="200" y2="105" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="96" y1="291" x2="200" y2="185" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="96" y1="291" x2="200" y2="265" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="96" y1="291" x2="200" y2="345" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="96" y1="291" x2="200" y2="425" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="96" y1="374" x2="200" y2="105" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="96" y1="374" x2="200" y2="185" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="96" y1="374" x2="200" y2="265" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="96" y1="374" x2="200" y2="345" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="96" y1="374" x2="200" y2="425" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="105" x2="304" y2="105" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="105" x2="304" y2="185" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="105" x2="304" y2="265" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="105" x2="304" y2="345" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="105" x2="304" y2="425" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="185" x2="304" y2="105" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="185" x2="304" y2="185" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="185" x2="304" y2="265" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="185" x2="304" y2="345" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="185" x2="304" y2="425" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="265" x2="304" y2="105" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="265" x2="304" y2="185" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="265" x2="304" y2="265" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="265" x2="304" y2="345" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="265" x2="304" y2="425" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="345" x2="304" y2="105" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="345" x2="304" y2="185" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="345" x2="304" y2="265" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="345" x2="304" y2="345" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="345" x2="304" y2="425" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="425" x2="304" y2="105" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="425" x2="304" y2="185" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="425" x2="304" y2="265" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="425" x2="304" y2="345" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="200" y1="425" x2="304" y2="425" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="304" y1="105" x2="408" y2="196" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="304" y1="105" x2="408" y2="334" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="304" y1="185" x2="408" y2="196" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="304" y1="185" x2="408" y2="334" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="304" y1="265" x2="408" y2="196" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="304" y1="265" x2="408" y2="334" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="304" y1="345" x2="408" y2="196" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="304" y1="345" x2="408" y2="334" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="304" y1="425" x2="408" y2="196" stroke="#cdd6e4" stroke-width="2.5"/>
+  <line x1="304" y1="425" x2="408" y2="334" stroke="#cdd6e4" stroke-width="2.5"/>
+  <circle cx="96" cy="125" r="16" fill="#dbe6f8" stroke="#3157a4" stroke-width="4"/>
+  <circle cx="96" cy="208" r="16" fill="#dbe6f8" stroke="#3157a4" stroke-width="4"/>
+  <circle cx="96" cy="291" r="16" fill="#dbe6f8" stroke="#3157a4" stroke-width="4"/>
+  <circle cx="96" cy="374" r="16" fill="#dbe6f8" stroke="#3157a4" stroke-width="4"/>
+  <circle cx="200" cy="105" r="16" fill="#e5f1ee" stroke="#2a7b70" stroke-width="4"/>
+  <circle cx="200" cy="185" r="16" fill="#e5f1ee" stroke="#2a7b70" stroke-width="4"/>
+  <circle cx="200" cy="265" r="16" fill="#e5f1ee" stroke="#2a7b70" stroke-width="4"/>
+  <circle cx="200" cy="345" r="16" fill="#e5f1ee" stroke="#2a7b70" stroke-width="4"/>
+  <circle cx="200" cy="425" r="16" fill="#e5f1ee" stroke="#2a7b70" stroke-width="4"/>
+  <circle cx="304" cy="105" r="16" fill="#e5f1ee" stroke="#2a7b70" stroke-width="4"/>
+  <circle cx="304" cy="185" r="16" fill="#e5f1ee" stroke="#2a7b70" stroke-width="4"/>
+  <circle cx="304" cy="265" r="16" fill="#e5f1ee" stroke="#2a7b70" stroke-width="4"/>
+  <circle cx="304" cy="345" r="16" fill="#e5f1ee" stroke="#2a7b70" stroke-width="4"/>
+  <circle cx="304" cy="425" r="16" fill="#e5f1ee" stroke="#2a7b70" stroke-width="4"/>
+  <circle cx="408" cy="196" r="16" fill="#f7ece0" stroke="#b26b36" stroke-width="4"/>
+  <circle cx="408" cy="334" r="16" fill="#f7ece0" stroke="#b26b36" stroke-width="4"/></svg>

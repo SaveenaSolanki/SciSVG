@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+  <title id="title">SciSVG</title>
+  <desc id="desc">Editable scientific SVG assets for figures, presentations, and publications.</desc>
+  <!-- SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG -->
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f5f8ff"/>
+      <stop offset="0.52" stop-color="#f7fbf8"/>
+      <stop offset="1" stop-color="#fff9f2"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#3157a4"/>
+      <stop offset="0.52" stop-color="#2a7b70"/>
+      <stop offset="1" stop-color="#b26b36"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#20304a" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="420" rx="34" fill="url(#bg)"/>
+
+  <g opacity="0.14" fill="none" stroke="#3157a4" stroke-width="3">
+    <path d="M70 115 C150 40 235 190 315 105 S470 45 540 120"/>
+    <path d="M70 305 C145 215 240 360 320 278 S470 220 545 300"/>
+    <circle cx="117" cy="108" r="12" fill="#3157a4" stroke="none"/>
+    <circle cx="292" cy="115" r="12" fill="#2a7b70" stroke="none"/>
+    <circle cx="505" cy="112" r="12" fill="#b26b36" stroke="none"/>
+  </g>
+
+  <g transform="translate(110 86)" filter="url(#shadow)">
+    <rect x="0" y="0" width="250" height="250" rx="58" fill="#ffffff"/>
+    <g transform="translate(40 38)" fill="none" stroke="url(#accent)" stroke-width="11" stroke-linecap="round">
+      <path d="M25 18 C115 52 52 126 142 160"/>
+      <path d="M142 18 C52 52 115 126 25 160"/>
+      <path d="M48 30 L119 30 M37 60 L130 60 M37 118 L130 118 M48 148 L119 148" stroke-width="7"/>
+    </g>
+  </g>
+
+  <g transform="translate(430 105)">
+    <text x="0" y="95" font-family="Inter, Arial, Helvetica, sans-serif" font-size="118" font-weight="750" letter-spacing="-5" fill="#172033">SciSVG</text>
+    <rect x="2" y="126" width="565" height="8" rx="4" fill="url(#accent)"/>
+    <text x="0" y="190" font-family="Inter, Arial, Helvetica, sans-serif" font-size="33" font-weight="500" fill="#3f4c61">Editable scientific vectors for figures, presentations &amp; publications</text>
+    <text x="0" y="241" font-family="Inter, Arial, Helvetica, sans-serif" font-size="26" fill="#677489">Free to use and adapt · Attribution required · CC BY 4.0</text>
+  </g>
+
+  <g transform="translate(1320 92)" opacity="0.72" fill="none" stroke="#2a7b70" stroke-width="5">
+    <circle cx="55" cy="55" r="20"/>
+    <circle cx="145" cy="102" r="14"/>
+    <circle cx="76" cy="190" r="16"/>
+    <circle cx="170" cy="220" r="22"/>
+    <path d="M72 66 L128 94 M66 75 L78 171 M91 184 L150 211 M154 120 L164 198"/>
+  </g>
+</svg>

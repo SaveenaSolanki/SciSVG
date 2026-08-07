@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Arrow Right</title>
+  <desc id="desc">Clean right-pointing arrow.</desc>
+  <!-- SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG -->
+  <g id="arrow">
+    <line x1="90" y1="256" x2="356" y2="256" stroke="#3157a4" stroke-width="14" stroke-linecap="round"/>
+    <polygon points="348,216 424,256 348,296" fill="#3157a4"/>
+  </g>
+</svg>

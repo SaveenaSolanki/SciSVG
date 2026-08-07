@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Layers</title>
+  <desc id="desc">Stacked layers, useful for workflows, sections and grouping.</desc>
+  <!-- SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG -->
+  <g id="layers">
+    <rect x="178" y="126" width="156" height="92" rx="12" fill="#dbe6f8" stroke="#3157a4" stroke-width="4"/>
+    <rect x="152" y="208" width="208" height="92" rx="12" fill="#e5f1ee" stroke="#2a7b70" stroke-width="4"/>
+    <rect x="126" y="290" width="260" height="92" rx="12" fill="#f7ece0" stroke="#b26b36" stroke-width="4"/>
+  </g>
+</svg>

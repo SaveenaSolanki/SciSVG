@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Sequencing Reads</title>
+  <desc id="desc">Short sequencing reads aligned to a reference with variant markers.</desc>
+  <!--
+    SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG
+  -->
+  <line x1="60" y1="276" x2="452" y2="276" stroke="#8a94a6" stroke-width="5" stroke-linecap="round"/>
+  <rect x="80" y="250" width="58" height="12" rx="6" fill="#3157a4"/>
+  <rect x="128" y="232" width="62" height="12" rx="6" fill="#3157a4"/>
+  <rect x="176" y="252" width="54" height="12" rx="6" fill="#3157a4"/>
+  <rect x="222" y="236" width="60" height="12" rx="6" fill="#3157a4"/>
+  <rect x="270" y="254" width="56" height="12" rx="6" fill="#3157a4"/>
+  <rect x="318" y="238" width="58" height="12" rx="6" fill="#3157a4"/>
+  <rect x="368" y="252" width="60" height="12" rx="6" fill="#3157a4"/>
+  <rect x="96" y="300" width="56" height="12" rx="6" fill="#2a7b70"/>
+  <rect x="146" y="318" width="58" height="12" rx="6" fill="#2a7b70"/>
+  <rect x="196" y="302" width="54" height="12" rx="6" fill="#2a7b70"/>
+  <rect x="244" y="320" width="58" height="12" rx="6" fill="#2a7b70"/>
+  <rect x="294" y="304" width="56" height="12" rx="6" fill="#2a7b70"/>
+  <rect x="342" y="318" width="58" height="12" rx="6" fill="#2a7b70"/>
+  <rect x="390" y="302" width="54" height="12" rx="6" fill="#2a7b70"/>
+  <line x1="205" y1="252" x2="205" y2="266" stroke="#b26b36" stroke-width="4" stroke-linecap="round"/>
+  <line x1="352" y1="238" x2="352" y2="252" stroke="#b26b36" stroke-width="4" stroke-linecap="round"/>
+  <line x1="318" y1="300" x2="318" y2="314" stroke="#b26b36" stroke-width="4" stroke-linecap="round"/></svg>
