@@ -1,0 +1,13 @@
+{
+  "name": "scisvg",
+  "version": "0.1.0",
+  "private": true,
+  "description": "SciSVG - open scientific vector illustrations (asset optimization tooling)",
+  "scripts": {
+    "optimize": "svgo --config=svgo.config.js -f assets -r",
+    "validate": "python scripts/validate_svgs.py"
+  },
+  "devDependencies": {
+    "svgo": "^3.3.2"
+  }
+}

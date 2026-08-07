@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" viewBox="0 0 512 512">
+  <title id="title">Gene Structure</title>
+  <desc id="desc">
+    Gene structure with promoter, untranslated regions, exons and introns.
+  </desc>
+<!--SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG-->
+  <g id="backbone">
+    <line x1="36" x2="476" y1="300" y2="300" stroke="#8a94a6" stroke-width="4"/>
+  </g>
+  <g id="promoter">
+    <line x1="36" x2="84" y1="300" y2="300" stroke="#b26b36" stroke-width="5"/>
+    <polygon fill="#b26b36" points="84,286 112,300 84,314"/>
+    <rect width="20" height="32" x="48" y="284" fill="#f7ece0" stroke="#b26b36" stroke-width="3" rx="3"/>
+  </g>
+  <g id="utrs" fill="#b7d8d1" stroke="#2a7b70" stroke-width="3">
+    <rect width="26" height="28" x="124" y="286" rx="4"/>
+    <rect width="26" height="28" x="444" y="286" rx="4"/>
+  </g>
+  <g id="exons" fill="#3157a4">
+    <rect width="54" height="36" x="158" y="282" rx="4"/>
+    <rect width="52" height="36" x="284" y="282" rx="4"/>
+    <rect width="48" height="36" x="388" y="282" rx="4"/>
+  </g>
+  <g id="introns" fill="none" stroke="#8a94a6" stroke-width="4">
+    <path d="M212 300c24-36 50 36 72 0"/>
+    <path d="M336 300c18-28 36 28 52 0"/>
+  </g>
+  <g id="poly-a-tail">
+    <line x1="470" x2="492" y1="300" y2="300" stroke="#b9cbe8" stroke-dasharray="3 3" stroke-linecap="round" stroke-width="5"/>
+  </g>
+</svg>

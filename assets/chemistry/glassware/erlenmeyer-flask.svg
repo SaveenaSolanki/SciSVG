@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" viewBox="0 0 512 512">
+  <title id="title">Erlenmeyer Flask</title>
+  <desc id="desc">
+    Erlenmeyer flask with colored liquid, bubbles and graduation marks.
+  </desc>
+<!--SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG-->
+  <g id="flask-glass" fill="#fff" stroke="#3157a4" stroke-width="5">
+    <rect width="68" height="14" x="222" y="100" rx="5"/>
+    <rect width="52" height="80" x="230" y="110"/>
+    <path stroke-linejoin="round" d="m230 190-78 182q-12 30 20 34h168q32-4 20-34l-78-182Z"/>
+  </g>
+  <g id="liquid">
+    <path fill="#3157a4" d="M162 392c38-20 150-20 188 0v12H162Z" opacity=".85"/>
+    <circle cx="236" cy="378" r="9" fill="#fff" opacity=".85"/>
+    <circle cx="268" cy="368" r="6" fill="#fff" opacity=".85"/>
+    <circle cx="300" cy="382" r="7" fill="#fff" opacity=".85"/>
+  </g>
+  <g id="graduations" stroke="#8a94a6" stroke-linecap="round" stroke-width="4">
+    <line x1="196" x2="214" y1="300" y2="300"/>
+    <line x1="190" x2="214" y1="330" y2="330"/>
+    <line x1="184" x2="214" y1="360" y2="360"/>
+  </g>
+</svg>

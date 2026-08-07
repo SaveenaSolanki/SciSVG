@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" viewBox="0 0 512 512">
+  <title id="title">Axes</title>
+  <desc id="desc">
+    X and Y axes arrows with tick marks for plots and diagrams.
+  </desc>
+<!--SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG-->
+  <g id="y-axis">
+    <line x1="120" x2="120" y1="400" y2="132" stroke="#172033" stroke-linecap="round" stroke-width="6"/>
+    <polygon fill="#172033" points="96,132 120,96 144,132"/>
+  </g>
+  <g id="x-axis">
+    <line x1="120" x2="388" y1="400" y2="400" stroke="#172033" stroke-linecap="round" stroke-width="6"/>
+    <polygon fill="#172033" points="388,376 424,400 388,424"/>
+  </g>
+  <g id="ticks" stroke="#8a94a6" stroke-linecap="round" stroke-width="4">
+    <line x1="196" x2="196" y1="394" y2="406"/>
+    <line x1="272" x2="272" y1="394" y2="406"/>
+    <line x1="348" x2="348" y1="394" y2="406"/>
+    <line x1="120" x2="132" y1="330" y2="330"/>
+    <line x1="120" x2="132" y1="254" y2="254"/>
+    <line x1="120" x2="132" y1="178" y2="178"/>
+  </g>
+</svg>

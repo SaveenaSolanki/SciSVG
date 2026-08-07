@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" viewBox="0 0 512 512">
+  <title id="title">Micropipette</title>
+  <desc id="desc">
+    Micropipette with tip ejector, volume window and a droplet.
+  </desc>
+<!--SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG-->
+  <g id="plunger">
+    <rect width="48" height="42" x="232" y="44" fill="#2a7b70" stroke="#1f5c54" stroke-width="4" rx="10"/>
+  </g>
+  <g id="body">
+    <rect width="80" height="232" x="216" y="82" fill="#dbe6f8" stroke="#3157a4" stroke-width="5" rx="18"/>
+  </g>
+  <g id="ejector">
+    <rect width="16" height="64" x="200" y="132" fill="#b26b36" stroke="#8f5026" stroke-width="3" rx="7"/>
+  </g>
+  <g id="volume-window">
+    <rect width="48" height="44" x="232" y="124" fill="#fff" stroke="#3f4c61" stroke-width="3" rx="6"/>
+    <rect width="14" height="10" x="240" y="136" fill="#3f4c61" rx="2"/>
+    <rect width="14" height="10" x="258" y="140" fill="#3f4c61" rx="2"/>
+    <rect width="14" height="10" x="240" y="152" fill="#3f4c61" opacity=".5" rx="2"/>
+  </g>
+  <g id="volume-marks" stroke="#3157a4" stroke-linecap="round" stroke-width="3">
+    <line x1="284" x2="296" y1="180" y2="180"/>
+    <line x1="284" x2="296" y1="210" y2="210"/>
+    <line x1="284" x2="296" y1="240" y2="240"/>
+  </g>
+  <g id="tip">
+    <polygon fill="#3157a4" stroke="#27457f" stroke-width="3" points="236,314 280,314 266,430 250,430"/>
+  </g>
+  <g id="droplet">
+    <path fill="#2a7b70" d="M258 438c-12 18-8 34 0 34s12-16 0-34"/>
+  </g>
+</svg>

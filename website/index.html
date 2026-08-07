@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="SciSVG — open scientific vector illustrations. Free to use. Free to modify. Attribution required.">
+  <title>SciSVG Library</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <div>
+        <p class="eyebrow">OPEN SCIENTIFIC VECTOR LIBRARY</p>
+        <h1>SciSVG</h1>
+        <p class="subtitle">Editable SVG assets for scientific figures, presentations, posters, teaching and publications. Free to use and modify — attribution required.</p>
+      </div>
+      <a class="github" href="https://github.com/SaveenaSolanki/SciSVG">View on GitHub</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="notice">
+      <strong>Free to use and modify.</strong> SVG assets are CC BY 4.0 — attribution to SciSVG is required. Gallery and tooling code is MIT.
+    </section>
+
+    <section class="toolbar" aria-label="Library filters">
+      <input id="search" type="search" placeholder="Search mitochondria, western blot, GPCR, machine learning..." autocomplete="off">
+      <select id="category" aria-label="Filter by category">
+        <option value="all">All categories</option>
+      </select>
+      <span id="count" class="count"></span>
+    </section>
+
+    <section id="chips" class="chips" aria-label="Quick category filters"></section>
+
+    <section id="empty" class="empty" hidden>
+      <h2>No SVGs found</h2>
+      <p>Try a different search, or request the asset in an issue.</p>
+    </section>
+
+    <section id="grid" class="grid" aria-live="polite"></section>
+  </main>
+
+  <footer>
+    <p>SciSVG by Saveena Solanki · SVG assets CC BY 4.0 · Code MIT · Attribution required</p>
+  </footer>
+
+  <div id="modal" class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-panel">
+      <button class="modal-close" data-close aria-label="Close">&#10005;</button>
+      <div class="modal-preview"><img id="modal-img" alt="" width="512" height="512"></div>
+      <div class="modal-body">
+        <h2 id="modal-title"></h2>
+        <p id="modal-meta" class="meta"></p>
+        <p id="modal-desc" class="modal-desc"></p>
+        <dl class="modal-fields">
+          <div><dt>Format</dt><dd>SVG (vector, editable)</dd></div>
+          <div><dt>License</dt><dd id="modal-license">CC BY 4.0</dd></div>
+          <div><dt>Contributor</dt><dd id="modal-contributor"></dd></div>
+          <div><dt>Version</dt><dd id="modal-version"></dd></div>
+          <div><dt>Category</dt><dd id="modal-category"></dd></div>
+          <div><dt>Review</dt><dd id="modal-review"></dd></div>
+        </dl>
+        <div class="modal-actions">
+          <button class="button primary" id="btn-download">Download SVG</button>
+          <button class="button" id="btn-copy-svg">Copy SVG</button>
+          <button class="button" id="btn-cite">Copy citation</button>
+          <a class="button" id="btn-source" href="#" target="_blank" rel="noopener">View source</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.1.0/dist/fuse.basic.min.js" defer></script>
+  <script src="app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" viewBox="0 0 512 512">
+  <title id="title">Protein-Ligand Binding</title>
+  <desc id="desc">
+    Protein binding pocket with a small molecule ligand and dashed hydrogen-bond lines.
+  </desc>
+<!--SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG-->
+  <g id="protein">
+    <path fill="#e7edf8" stroke="#3157a4" stroke-linejoin="round" stroke-width="5" d="M64 132c54-68 172-60 236-14 42 30 56 68 48 104-10 24-28 36-30 60s14 46 0 62c-18 22-108 36-168 22-58-14-104-126-86-234Z"/>
+  </g>
+  <g id="pocket-residues" fill="#b26b36">
+    <circle cx="330" cy="236" r="8"/>
+    <circle cx="324" cy="296" r="8"/>
+    <circle cx="390" cy="280" r="8"/>
+  </g>
+  <g id="ligand" stroke="#b26b36">
+    <polygon fill="#f7ece0" stroke-linejoin="round" stroke-width="5" points="378,251 352,236 326,251 326,281 352,296 378,281"/>
+    <circle cx="352" cy="266" r="14" fill="none" stroke-width="3"/>
+  </g>
+  <g id="hydrogen-bonds" fill="none" stroke="#2a7b70" stroke-dasharray="6 6" stroke-linecap="round" stroke-width="3">
+    <path d="m326 251 2-7"/>
+    <path d="M326 281v11"/>
+    <path d="m378 281 6-1"/>
+  </g>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" viewBox="0 0 512 512">
+  <title id="title">Animal Cell</title>
+  <desc id="desc">
+    Eukaryotic animal cell with nucleus, rough ER, Golgi apparatus, mitochondria and vacuole.
+  </desc>
+<!--SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG-->
+  <g id="cell-membrane">
+    <ellipse cx="256" cy="258" fill="#fff" stroke="#3157a4" stroke-width="5" rx="212" ry="172"/>
+  </g>
+  <g id="vacuole">
+    <circle cx="146" cy="190" r="34" fill="#dbe6f8" stroke="#a9c0ea" stroke-width="3"/>
+  </g>
+  <g id="nucleus">
+    <ellipse cx="292" cy="222" fill="#e7edf8" stroke="#3157a4" stroke-width="4" rx="88" ry="66"/>
+    <circle cx="292" cy="236" r="18" fill="#b26b36"/>
+  </g>
+  <g id="rough-er" fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="4">
+    <path d="M186 140c24 20 24 40 4 56"/>
+    <path d="M166 156c24 20 24 40 6 56"/>
+    <path d="M382 300c20 18 20 36 4 52"/>
+    <g fill="#2a7b70" stroke="none">
+      <circle cx="200" cy="144" r="3.5"/>
+      <circle cx="216" cy="164" r="3.5"/>
+      <circle cx="214" cy="184" r="3.5"/>
+      <circle cx="200" cy="200" r="3.5"/>
+      <circle cx="180" cy="162" r="3.5"/>
+      <circle cx="198" cy="182" r="3.5"/>
+      <circle cx="180" cy="200" r="3.5"/>
+      <circle cx="396" cy="304" r="3.5"/>
+      <circle cx="410" cy="322" r="3.5"/>
+      <circle cx="408" cy="340" r="3.5"/>
+      <circle cx="392" cy="356" r="3.5"/>
+    </g>
+  </g>
+  <g id="golgi" fill="none" stroke="#b26b36" stroke-linecap="round" stroke-width="5">
+    <path d="M118 306q45-21 90 0"/>
+    <path d="M124 328q39-18 78 0"/>
+    <path d="M132 350c22-10 42-10 62 0"/>
+  </g>
+  <g id="mitochondria" stroke="#2a7b70">
+    <ellipse cx="196" cy="386" fill="#e5f1ee" stroke-width="4" rx="46" ry="26" transform="rotate(-18 196 386)"/>
+    <path fill="none" stroke-linecap="round" stroke-width="3.5" d="M164 392c14-12 26 0 40-10"/>
+    <path fill="none" stroke-linecap="round" stroke-width="3.5" d="M168 404c14-10 24 0 38-8"/>
+    <ellipse cx="336" cy="392" fill="#e5f1ee" stroke-width="4" rx="40" ry="22" transform="rotate(14 336 392)"/>
+    <path fill="none" stroke-linecap="round" stroke-width="3.5" d="M312 396c14-10 26 0 40-8"/>
+  </g>
+  <g id="ribosomes" fill="#3f4c61">
+    <circle cx="112" cy="122" r="4"/>
+    <circle cx="132" cy="142" r="4"/>
+    <circle cx="360" cy="120" r="4"/>
+    <circle cx="380" cy="140" r="4"/>
+    <circle cx="340" cy="170" r="4"/>
+    <circle cx="120" cy="330" r="4"/>
+  </g>
+</svg>

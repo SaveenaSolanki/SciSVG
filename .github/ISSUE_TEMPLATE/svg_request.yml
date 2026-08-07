@@ -1,0 +1,57 @@
+name: SVG asset request
+description: Request a new scientific SVG asset
+title: "[SVG Request] "
+labels: ["asset-request"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for suggesting a new asset for SciSVG. Fill in as much as you can — the more scientific context, the more useful the illustration will be."
+  - type: input
+    id: asset-name
+    attributes:
+      label: Asset name
+      description: Short descriptive name, e.g. "Western blot schematic"
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Biology
+        - Chemistry
+        - Medicine
+        - Laboratory
+        - Bioinformatics
+        - General Science
+    validations:
+      required: true
+  - type: input
+    id: subcategory
+    attributes:
+      label: Subcategory
+      description: e.g. organelles, molecules, genomics (optional)
+  - type: textarea
+    id: description
+    attributes:
+      label: What should it depict?
+      description: Scientific content, intended use (figure, slide, poster), level of detail.
+    validations:
+      required: true
+  - type: input
+    id: tags
+    attributes:
+      label: Search keywords
+      description: Comma-separated, e.g. "mitochondria, metabolism, ATP"
+  - type: textarea
+    id: references
+    attributes:
+      label: References for accuracy
+      description: Papers, textbooks, or figures the illustration should follow (links welcome).
+  - type: checkboxes
+    id: agree
+    attributes:
+      label: Contribution terms
+      options:
+        - label: I understand that contributed assets are released under CC BY 4.0
+          required: true

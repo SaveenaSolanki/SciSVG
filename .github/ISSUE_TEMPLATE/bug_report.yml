@@ -1,0 +1,27 @@
+name: Bug report
+description: Report a bug in the website, tooling, or workflows
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Describe the bug and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: How to reproduce
+      description: Steps, or the command you ran (e.g. python scripts/validate_svgs.py).
+  - type: input
+    id: context
+    attributes:
+      label: Environment
+      description: Browser/OS for website issues, Python/Node versions for tooling.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or error output
+      render: shell

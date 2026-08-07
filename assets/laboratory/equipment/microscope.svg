@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" viewBox="0 0 512 512">
+  <title id="title">Microscope</title>
+  <desc id="desc">
+    Laboratory microscope with eyepiece, objective, stage and focus knob.
+  </desc>
+<!--SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG-->
+  <g id="base">
+    <rect width="320" height="26" x="100" y="410" fill="#3f4c61" rx="13"/>
+  </g>
+  <g id="arm">
+    <rect width="30" height="182" x="118" y="236" fill="#3157a4" rx="15"/>
+  </g>
+  <g id="focus-knob">
+    <circle cx="133" cy="300" r="22" fill="#b26b36" stroke="#8f5026" stroke-width="4"/>
+    <circle cx="133" cy="300" r="9" fill="#f7ece0"/>
+  </g>
+  <g id="stage">
+    <rect width="172" height="12" x="168" y="326" fill="#3f4c61" rx="4"/>
+    <rect width="12" height="16" x="178" y="318" fill="#b26b36" rx="2"/>
+    <rect width="12" height="16" x="296" y="318" fill="#b26b36" rx="2"/>
+  </g>
+  <g id="slide">
+    <rect width="90" height="8" x="210" y="322" fill="#dbe6f8" stroke="#3157a4" stroke-width="2.5" rx="3"/>
+  </g>
+  <g id="illuminator">
+    <rect width="12" height="30" x="250" y="338" fill="#8a94a6"/>
+    <circle cx="256" cy="392" r="16" fill="#f7ece0" stroke="#b26b36" stroke-width="4"/>
+  </g>
+  <g id="body-tube" transform="rotate(24 196 200)">
+    <rect width="30" height="168" x="176" y="118" fill="#3157a4" rx="14"/>
+    <rect width="38" height="28" x="172" y="88" fill="#2a7b70" rx="8"/>
+  </g>
+  <g id="objective">
+    <rect width="20" height="26" x="222" y="296" fill="#2a7b70" rx="8"/>
+    <rect width="12" height="12" x="226" y="318" fill="#3f4c61" rx="3"/>
+  </g>
+</svg>

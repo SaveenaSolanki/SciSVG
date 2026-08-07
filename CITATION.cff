@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "If you use SciSVG assets, please cite this repository."
-title: "SciSVG: Editable scientific SVG assets"
+message: "If you use SciSVG figures in your work, please cite SciSVG."
+title: "SciSVG: An Open Scientific SVG Illustration Library"
 type: software
 authors:
   - family-names: "Solanki"
@@ -14,6 +14,6 @@ preferred-citation:
   authors:
     - family-names: "Solanki"
       given-names: "Saveena"
-  title: "SciSVG: Editable scientific SVG assets"
+  title: "SciSVG: An Open Scientific SVG Illustration Library"
   year: 2026
   url: "https://github.com/SaveenaSolanki/SciSVG"

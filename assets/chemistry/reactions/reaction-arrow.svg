@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" viewBox="0 0 512 512">
+  <title id="title">Reaction Arrow</title>
+  <desc id="desc">
+    Chemical reaction scheme arrow with reactants A + B, product C and a heat symbol.
+  </desc>
+<!--SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG-->
+  <g id="reaction-arrow">
+    <line x1="120" x2="356" y1="256" y2="256" stroke="#3157a4" stroke-linecap="round" stroke-width="9"/>
+    <polygon fill="#3157a4" points="348,230 392,256 348,282"/>
+  </g>
+  <g id="labels" font-family="Inter, Arial, Helvetica, sans-serif" font-weight="700">
+    <text x="120" y="196" fill="#3f4c61" font-size="46">A</text>
+    <text x="196" y="202" fill="#8a94a6" font-size="40">+</text>
+    <text x="250" y="196" fill="#3f4c61" font-size="46">B</text>
+    <text x="384" y="196" fill="#2a7b70" font-size="46">C</text>
+    <text x="226" y="136" fill="#b26b36" font-size="40">Δ</text>
+  </g>
+</svg>

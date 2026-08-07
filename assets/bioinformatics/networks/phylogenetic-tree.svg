@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" viewBox="0 0 512 512">
+  <title id="title">Phylogenetic Tree</title>
+  <desc id="desc">
+    Phylogenetic tree with five terminal branches and labeled branch points.
+  </desc>
+<!--SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG-->
+  <g id="branches" fill="none" stroke="#3f4c61" stroke-linecap="round" stroke-linejoin="round" stroke-width="5">
+    <path d="M80 256h90"/>
+    <path d="m170 256 70-126"/>
+    <path d="m170 256 70 126"/>
+    <path d="M170 256h70"/>
+    <path d="m240 130 80-50"/>
+    <path d="m240 130 80 50"/>
+    <path d="m240 382 80-50"/>
+    <path d="m240 382 80 50"/>
+    <path d="M240 256h80"/>
+    <path d="M320 80h20"/>
+    <path d="M320 180h20"/>
+    <path d="M320 332h20"/>
+    <path d="M320 432h20"/>
+    <path d="M320 256h20"/>
+  </g>
+  <g id="nodes" fill="#3157a4">
+    <circle cx="170" cy="256" r="6"/>
+    <circle cx="240" cy="130" r="6"/>
+    <circle cx="240" cy="382" r="6"/>
+    <circle cx="240" cy="256" r="6"/>
+  </g>
+  <g id="leaves" stroke="#fff" stroke-width="3">
+    <circle cx="352" cy="80" r="11" fill="#3157a4"/>
+    <circle cx="352" cy="180" r="11" fill="#2a7b70"/>
+    <circle cx="352" cy="256" r="11" fill="#b26b36"/>
+    <circle cx="352" cy="332" r="11" fill="#8a94a6"/>
+    <circle cx="352" cy="432" r="11" fill="#5a7cbc"/>
+  </g>
+</svg>

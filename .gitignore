@@ -14,12 +14,23 @@ dist/
 venv/
 env/
 
+# Node
+node_modules/
+
+# Generated build artifacts (canonical source is assets/**)
+previews/*
+!previews/README.md
+
 # Editors / OS
 .DS_Store
 .idea/
 .vscode/
 *.swp
 .ipynb_checkpoints/
+
+# Tests / tooling caches
+.pytest_cache/
+.coverage
 
 # Logs
 *.log

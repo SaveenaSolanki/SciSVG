@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" viewBox="0 0 512 512">
+  <title id="title">Mitochondrion</title>
+  <desc id="desc">
+    Mitochondrion with inner membrane folds (cristae) and matrix, cross-section.
+  </desc>
+<!--SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG-->
+  <g id="outer-membrane">
+    <ellipse cx="256" cy="264" fill="#e7edf8" stroke="#3157a4" stroke-width="5" rx="195" ry="132"/>
+  </g>
+  <g id="inner-membrane">
+    <ellipse cx="256" cy="264" fill="#fff" stroke="#2a7b70" stroke-width="4" rx="158" ry="100"/>
+  </g>
+  <g id="cristae" fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="5">
+    <path d="M108 230c42-24 42 20 88 2"/>
+    <path d="M108 264c44-22 44 22 88 2"/>
+    <path d="M108 298c42-20 42 20 88 4"/>
+    <path d="M404 232c-40-24-40 20-86 2"/>
+    <path d="M404 268c-42-20-42 20-86 2"/>
+    <path d="M404 300c-38-18-38 20-86 4"/>
+  </g>
+  <g id="matrix" fill="#b26b36">
+    <circle cx="200" cy="210" r="6"/>
+    <circle cx="244" cy="300" r="5"/>
+    <circle cx="300" cy="216" r="6"/>
+    <circle cx="342" cy="300" r="5"/>
+    <circle cx="262" cy="248" r="5"/>
+  </g>
+</svg>

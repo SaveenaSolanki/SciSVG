@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" viewBox="0 0 512 512">
+  <title id="title">Curved Arrow</title>
+  <desc id="desc">
+    Clockwise curved arrow, useful for cycles and rotation.
+  </desc>
+<!--SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG-->
+  <g id="curved-arrow">
+    <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="14" d="M256 96A160 160 0 1 1 96 256"/>
+    <polygon fill="#2a7b70" points="96,198 62,262 130,262"/>
+  </g>
+</svg>

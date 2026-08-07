@@ -1,0 +1,29 @@
+name: Scientific error
+description: Report a scientific inaccuracy in an asset
+title: "[Scientific error] "
+labels: ["scientific-error"]
+body:
+  - type: input
+    id: asset
+    attributes:
+      label: Asset
+      description: Path or gallery name of the asset, e.g. assets/biology/organelles/mitochondrion.svg
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What is wrong?
+      description: Describe the scientific inaccuracy (structure, label, scale, mechanism...).
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Links to papers or textbooks supporting the correction.
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested fix
+      description: How should the asset be corrected?

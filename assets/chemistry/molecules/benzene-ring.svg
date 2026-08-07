@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" viewBox="0 0 512 512">
+  <title id="title">Benzene Ring</title>
+  <desc id="desc">
+    Aromatic benzene ring, hexagon with inner circle.
+  </desc>
+<!--SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG-->
+  <g id="benzene">
+    <polygon fill="#fff" stroke="#3f4c61" stroke-linejoin="round" stroke-width="6" points="366,256 311,351 201,351 146,256 201,161 311,161"/>
+    <circle cx="256" cy="256" r="64" fill="none" stroke="#2a7b70" stroke-width="5"/>
+  </g>
+</svg>

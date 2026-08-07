@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" viewBox="0 0 512 512">
+  <title id="title">Cell Membrane</title>
+  <desc id="desc">
+    Phospholipid bilayer with embedded proteins and cholesterol, cross-section.
+  </desc>
+<!--SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG-->
+  <circle cx="76" cy="130" r="11" fill="#3157a4"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M76 141c-10 29 10 57-6 87 8 12 4 20 6 28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M76 141c10 29-10 57 6 87-8 12-4 20-6 28" opacity=".8"/>
+  <circle cx="112" cy="130" r="11" fill="#3157a4"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M112 141c-10 29 10 57-6 87 8 12 4 20 6 28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M112 141c10 29-10 57 6 87-8 12-4 20-6 28" opacity=".8"/>
+  <circle cx="148" cy="130" r="11" fill="#3157a4"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M148 141c-10 29 10 57-6 87 8 12 4 20 6 28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M148 141c10 29-10 57 6 87-8 12-4 20-6 28" opacity=".8"/>
+  <circle cx="184" cy="130" r="11" fill="#3157a4"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M184 141c-10 29 10 57-6 87 8 12 4 20 6 28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M184 141c10 29-10 57 6 87-8 12-4 20-6 28" opacity=".8"/>
+  <circle cx="220" cy="130" r="11" fill="#3157a4"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M220 141c-10 29 10 57-6 87 8 12 4 20 6 28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M220 141c10 29-10 57 6 87-8 12-4 20-6 28" opacity=".8"/>
+  <circle cx="256" cy="130" r="11" fill="#3157a4"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M256 141c-10 29 10 57-6 87 8 12 4 20 6 28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M256 141c10 29-10 57 6 87-8 12-4 20-6 28" opacity=".8"/>
+  <circle cx="292" cy="130" r="11" fill="#3157a4"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M292 141c-10 29 10 57-6 87 8 12 4 20 6 28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M292 141c10 29-10 57 6 87-8 12-4 20-6 28" opacity=".8"/>
+  <circle cx="328" cy="130" r="11" fill="#3157a4"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M328 141c-10 29 10 57-6 87 8 12 4 20 6 28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M328 141c10 29-10 57 6 87-8 12-4 20-6 28" opacity=".8"/>
+  <circle cx="364" cy="130" r="11" fill="#3157a4"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M364 141c-10 29 10 57-6 87 8 12 4 20 6 28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M364 141c10 29-10 57 6 87-8 12-4 20-6 28" opacity=".8"/>
+  <circle cx="400" cy="130" r="11" fill="#3157a4"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M400 141c-10 29 10 57-6 87 8 12 4 20 6 28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M400 141c10 29-10 57 6 87-8 12-4 20-6 28" opacity=".8"/>
+  <circle cx="436" cy="130" r="11" fill="#3157a4"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M436 141c-10 29 10 57-6 87 8 12 4 20 6 28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M436 141c10 29-10 57 6 87-8 12-4 20-6 28" opacity=".8"/>
+  <circle cx="76" cy="382" r="11" fill="#2a7b70"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M76 371c-10-29 10-57-6-87 8-12 4-20 6-28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M76 371c10-29-10-57 6-87-8-12-4-20-6-28" opacity=".8"/>
+  <circle cx="112" cy="382" r="11" fill="#2a7b70"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M112 371c-10-29 10-57-6-87 8-12 4-20 6-28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M112 371c10-29-10-57 6-87-8-12-4-20-6-28" opacity=".8"/>
+  <circle cx="148" cy="382" r="11" fill="#2a7b70"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M148 371c-10-29 10-57-6-87 8-12 4-20 6-28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M148 371c10-29-10-57 6-87-8-12-4-20-6-28" opacity=".8"/>
+  <circle cx="184" cy="382" r="11" fill="#2a7b70"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M184 371c-10-29 10-57-6-87 8-12 4-20 6-28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M184 371c10-29-10-57 6-87-8-12-4-20-6-28" opacity=".8"/>
+  <circle cx="220" cy="382" r="11" fill="#2a7b70"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M220 371c-10-29 10-57-6-87 8-12 4-20 6-28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M220 371c10-29-10-57 6-87-8-12-4-20-6-28" opacity=".8"/>
+  <circle cx="256" cy="382" r="11" fill="#2a7b70"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M256 371c-10-29 10-57-6-87 8-12 4-20 6-28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M256 371c10-29-10-57 6-87-8-12-4-20-6-28" opacity=".8"/>
+  <circle cx="292" cy="382" r="11" fill="#2a7b70"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M292 371c-10-29 10-57-6-87 8-12 4-20 6-28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M292 371c10-29-10-57 6-87-8-12-4-20-6-28" opacity=".8"/>
+  <circle cx="328" cy="382" r="11" fill="#2a7b70"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M328 371c-10-29 10-57-6-87 8-12 4-20 6-28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M328 371c10-29-10-57 6-87-8-12-4-20-6-28" opacity=".8"/>
+  <circle cx="364" cy="382" r="11" fill="#2a7b70"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M364 371c-10-29 10-57-6-87 8-12 4-20 6-28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M364 371c10-29-10-57 6-87-8-12-4-20-6-28" opacity=".8"/>
+  <circle cx="400" cy="382" r="11" fill="#2a7b70"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M400 371c-10-29 10-57-6-87 8-12 4-20 6-28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M400 371c10-29-10-57 6-87-8-12-4-20-6-28" opacity=".8"/>
+  <circle cx="436" cy="382" r="11" fill="#2a7b70"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M436 371c-10-29 10-57-6-87 8-12 4-20 6-28" opacity=".8"/>
+  <path fill="none" stroke="#2a7b70" stroke-linecap="round" stroke-width="3.5" d="M436 371c10-29-10-57 6-87-8-12-4-20-6-28" opacity=".8"/>
+  <rect width="28" height="320" x="150" y="96" fill="#f7ece0" stroke="#b26b36" stroke-width="4" rx="14"/>
+  <rect width="28" height="340" x="334" y="86" fill="#f7ece0" stroke="#b26b36" stroke-width="4" rx="14"/>
+  <circle cx="348" cy="256" r="7" fill="#fff" stroke="#b26b36" stroke-width="3"/>
+  <path fill="#3f4c61" d="m240 238 8 12-8 12-8-12Z"/>
+  <path fill="#3f4c61" d="m300 254 8 12-8 12-8-12Z"/>
+</svg>

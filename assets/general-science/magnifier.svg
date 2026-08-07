@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" viewBox="0 0 512 512">
+  <title id="title">Magnifier</title>
+  <desc id="desc">
+    Magnifying glass over a small molecule, for inspection and review.
+  </desc>
+<!--SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG-->
+  <g id="lens">
+    <circle cx="238" cy="238" r="108" fill="#dbe6f8" stroke="#3157a4" stroke-width="9" opacity=".6"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-width="8" d="M170 180a60 60 0 0 1 40-20" opacity=".7"/>
+  </g>
+  <g id="molecule" fill="none" stroke="#3f4c61" stroke-linejoin="round" stroke-width="4">
+    <polygon points="268,238 253,212 223,212 208,238 223,264 253,264"/>
+    <circle cx="238" cy="238" r="12" stroke-width="3"/>
+  </g>
+  <g id="handle">
+    <line x1="314" x2="458" y1="314" y2="458" stroke="#b26b36" stroke-linecap="round" stroke-width="44"/>
+  </g>
+</svg>

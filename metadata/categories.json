@@ -1,0 +1,58 @@
+{
+  "biology": {
+    "label": "Biology",
+    "description": "Cells, organelles, molecular machines, and organism-level schematics.",
+    "subcategories": {
+      "cells": {"label": "Cells", "description": "Whole-cell and cell-structure diagrams."},
+      "organelles": {"label": "Organelles", "description": "Membrane-bound compartments and subcellular structures."},
+      "proteins": {"label": "Proteins", "description": "Protein structure, folding, and complexes."},
+      "dna-rna": {"label": "DNA & RNA", "description": "Nucleic acid structures and molecular biology schematics."},
+      "pathways": {"label": "Pathways", "description": "Metabolic and signalling pathway diagrams."},
+      "organisms": {"label": "Organisms", "description": "Whole-organism and model-organism illustrations."}
+    }
+  },
+  "chemistry": {
+    "label": "Chemistry",
+    "description": "Molecules, reactions, glassware, and chemical instrumentation.",
+    "subcategories": {
+      "molecules": {"label": "Molecules", "description": "Small molecules, functional groups, and complexes."},
+      "reactions": {"label": "Reactions", "description": "Reaction schemes, arrows, and mechanism elements."},
+      "glassware": {"label": "Glassware", "description": "Flasks, beakers, and laboratory glassware."},
+      "instrumentation": {"label": "Instrumentation", "description": "Chemical instruments and detectors."}
+    }
+  },
+  "medicine": {
+    "label": "Medicine",
+    "description": "Anatomy, disease, and clinical illustrations. Open for contributions.",
+    "subcategories": {
+      "anatomy": {"label": "Anatomy", "description": "Anatomical structures and systems."},
+      "disease": {"label": "Disease", "description": "Pathology and disease-process schematics."},
+      "clinical": {"label": "Clinical", "description": "Clinical settings, devices, and procedures."}
+    }
+  },
+  "laboratory": {
+    "label": "Laboratory",
+    "description": "Equipment, workflows, and consumables used at the bench.",
+    "subcategories": {
+      "equipment": {"label": "Equipment", "description": "Instruments and durable lab equipment."},
+      "workflows": {"label": "Workflows", "description": "Lab protocols and experimental workflow diagrams."},
+      "consumables": {"label": "Consumables", "description": "Plates, tubes, dishes, and disposable items."}
+    }
+  },
+  "bioinformatics": {
+    "label": "Bioinformatics",
+    "description": "Computational biology, genomics analysis, networks, and machine learning.",
+    "subcategories": {
+      "genomics": {"label": "Genomics", "description": "Sequencing, alignment, variation, and omics figures."},
+      "networks": {"label": "Networks", "description": "Trees, graphs, and interaction networks."},
+      "machine-learning": {"label": "Machine Learning", "description": "Model diagrams, architectures, and training figures."},
+      "workflows": {"label": "Workflows", "description": "Analysis pipelines and computational workflows."},
+      "databases": {"label": "Databases", "description": "Biological databases and data resources."}
+    }
+  },
+  "general-science": {
+    "label": "General Science",
+    "description": "Arrows, axes, icons, and generic scientific elements.",
+    "subcategories": {}
+  }
+}

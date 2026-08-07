@@ -1,10 +1,12 @@
-name: Build SVG catalog
+name: Build catalog
 
 on:
   push:
     branches: [main]
     paths:
-      - "library/**/*.svg"
+      - "assets/**"
+      - "metadata/categories.json"
+      - "metadata/contributors.json"
       - "scripts/build_catalog.py"
   workflow_dispatch:
 
@@ -28,12 +30,12 @@ jobs:
 
       - name: Commit catalog if changed
         run: |
-          if git diff --quiet -- docs/catalog.json; then
+          if git diff --quiet -- website/catalog.json metadata/assets.json; then
             echo "Catalog unchanged"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/catalog.json
+          git add website/catalog.json metadata/assets.json
           git commit -m "chore: rebuild SVG catalog"
           git push

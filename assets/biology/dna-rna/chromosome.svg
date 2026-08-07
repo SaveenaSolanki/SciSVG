@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" viewBox="0 0 512 512">
+  <title id="title">Chromosome</title>
+  <desc id="desc">
+    Chromosome with two sister chromatids joined at the centromere.
+  </desc>
+<!--SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG-->
+  <g id="chromatids" stroke-linejoin="round" stroke-width="5">
+    <path fill="#e7edf8" stroke="#3157a4" d="M196 84c44 96 54 246 114 344h40c-70-98-78-248-120-344Z"/>
+    <path fill="#e5f1ee" stroke="#2a7b70" d="M318 84c-48 96-56 246-116 344h-40c70-98 78-248 120-344Z"/>
+  </g>
+  <g id="centromere">
+    <circle cx="256" cy="256" r="16" fill="#b26b36" stroke="#fff" stroke-width="3"/>
+  </g>
+  <g id="telomeres" fill="#b26b36">
+    <circle cx="196" cy="84" r="9"/>
+    <circle cx="318" cy="84" r="9"/>
+    <circle cx="162" cy="428" r="9"/>
+    <circle cx="350" cy="428" r="9"/>
+  </g>
+</svg>

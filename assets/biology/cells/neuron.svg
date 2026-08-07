@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" viewBox="0 0 512 512">
+  <title id="title">Neuron</title>
+  <desc id="desc">
+    Neuron with dendrites, soma, myelinated axon and synaptic terminals.
+  </desc>
+<!--SciSVG — Saveena Solanki, CC BY 4.0, https://github.com/SaveenaSolanki/SciSVG-->
+  <g id="dendrites" fill="none" stroke="#3157a4" stroke-linecap="round" stroke-width="5">
+    <path d="M112 214c-42-24-57-64-72-94"/>
+    <path d="M108 232c-46 2-78-20-90-54"/>
+    <path d="M108 252c-48 16-74 48-82 90"/>
+    <path d="M118 300c-30 36-48 60-52 94"/>
+    <path d="M130 324c-18 36-10 72 2 100"/>
+    <path d="M152 326c0 46-10 76-18 104"/>
+  </g>
+  <g id="dendrite-tips" fill="#3157a4">
+    <circle cx="40" cy="120" r="6"/>
+    <circle cx="18" cy="178" r="6"/>
+    <circle cx="26" cy="342" r="6"/>
+    <circle cx="66" cy="394" r="6"/>
+    <circle cx="132" cy="424" r="6"/>
+    <circle cx="134" cy="430" r="6"/>
+  </g>
+  <g id="soma">
+    <circle cx="180" cy="256" r="72" fill="#e7edf8" stroke="#3157a4" stroke-width="5"/>
+    <circle cx="178" cy="252" r="26" fill="#b9cbe8" stroke="#3157a4" stroke-width="4"/>
+    <circle cx="178" cy="252" r="9" fill="#b26b36"/>
+  </g>
+  <g id="axon" fill="none" stroke="#3f4c61" stroke-linecap="round" stroke-width="7">
+    <path d="M246 240c34-8 54 10 94 16h130"/>
+  </g>
+  <g id="myelin-sheath" fill="#f3e0cd" stroke="#b26b36" stroke-width="3">
+    <rect width="36" height="17" x="348" y="247" rx="8"/>
+    <rect width="36" height="17" x="392" y="247" rx="8"/>
+    <rect width="36" height="17" x="434" y="247" rx="8"/>
+  </g>
+  <g id="axon-terminals" fill="none" stroke="#3f4c61" stroke-linecap="round" stroke-width="5">
+    <path d="M462 256c14-8 22-14 34-20"/>
+    <path d="M462 256h34"/>
+    <path d="M462 256c14 8 22 14 34 20"/>
+  </g>
+  <g id="boutons" fill="#b26b36">
+    <circle cx="496" cy="236" r="8"/>
+    <circle cx="496" cy="256" r="8"/>
+    <circle cx="496" cy="276" r="8"/>
+  </g>
+</svg>
