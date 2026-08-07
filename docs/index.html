@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="SciSVG — free editable scientific SVG assets with attribution.">
+  <title>SciSVG Library</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <div>
+        <p class="eyebrow">OPEN SCIENTIFIC VECTOR LIBRARY</p>
+        <h1>SciSVG</h1>
+        <p class="subtitle">Editable SVG assets for scientific figures, presentations, posters, teaching and publications.</p>
+      </div>
+      <a class="github" href="https://github.com/SaveenaSolanki/SciSVG">View on GitHub</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="notice">
+      <strong>Free to use and modify.</strong> Attribution to SciSVG is required under CC BY 4.0.
+    </section>
+
+    <section class="toolbar" aria-label="Library filters">
+      <input id="search" type="search" placeholder="Search SVGs..." autocomplete="off">
+      <select id="category" aria-label="Filter by category">
+        <option value="all">All categories</option>
+      </select>
+      <span id="count" class="count"></span>
+    </section>
+
+    <section id="empty" class="empty" hidden>
+      <h2>No SVGs found</h2>
+      <p>Add SVG files under <code>library/</code> and rebuild the catalog.</p>
+    </section>
+
+    <section id="grid" class="grid" aria-live="polite"></section>
+  </main>
+
+  <footer>
+    <p>SciSVG by Saveena Solanki · CC BY 4.0 · Attribution required</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
