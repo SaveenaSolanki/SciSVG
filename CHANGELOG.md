@@ -33,6 +33,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Repository banner updated to the gallery preview image (`branding/scisvg-preview.png`);
+  the editable SVG banner remains at `branding/scisvg-banner.svg`.
 - More assets across all categories, especially Medicine (open for contributions).
 - Scientific review program and review badges.
 - Zenodo DOI once a first stable release is tagged.

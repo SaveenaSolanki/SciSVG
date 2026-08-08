@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="branding/scisvg-banner.svg" alt="SciSVG — open scientific vector illustrations" width="100%">
+  <img src="branding/scisvg-preview.png" alt="SciSVG — open scientific vector illustrations — gallery preview" width="100%">
 </p>
+
+> The editable vector banner is also available: [`branding/scisvg-banner.svg`](branding/scisvg-banner.svg).
 
 # SciSVG
 
