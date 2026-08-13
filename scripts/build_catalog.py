@@ -107,6 +107,18 @@ def main() -> None:
         "count": len(assets),
         "assets": assets,
     }
+    # Avoid timestamp churn: keep the previous generated_at when the asset
+    # content is unchanged, so the catalog bot does not commit on every run.
+    for out in (CATALOG_OUT, ASSETS_OUT):
+        if out.exists():
+            try:
+                existing = json.loads(out.read_text(encoding="utf-8"))
+                if existing.get("assets") == assets:
+                    payload["generated_at"] = existing.get(
+                        "generated_at", payload["generated_at"]
+                    )
+            except (OSError, json.JSONDecodeError):
+                pass
     CATALOG_OUT.parent.mkdir(parents=True, exist_ok=True)
     ASSETS_OUT.parent.mkdir(parents=True, exist_ok=True)
     CATALOG_OUT.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
