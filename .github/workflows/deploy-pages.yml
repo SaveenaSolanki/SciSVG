@@ -38,7 +38,7 @@ jobs:
         run: python scripts/build_catalog.py
 
       - name: Configure Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
