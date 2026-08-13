@@ -8,6 +8,6 @@
     "validate": "python scripts/validate_svgs.py"
   },
   "devDependencies": {
-    "svgo": "^3.3.2"
+    "svgo": "^4.0.2"
   }
 }
